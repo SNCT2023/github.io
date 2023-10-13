@@ -284,6 +284,9 @@ footer {
     grid-template-columns: repeat(1, 1fr);
     padding: 3rem 2rem;
   }
+  .footer-list{
+    margin-right: 30px;
+  }
 }
 
 
