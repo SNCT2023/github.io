@@ -312,36 +312,6 @@ footer {
   /* Permite rolagem vertical quando o conteúdo exceder a altura máxima */
 }
 
-/* 
-.card-text {
-  max-height: 100px; */
-/* Altura máxima desejada */
-/* overflow: hidden;
-  position: relative;
-} */
-
-/* .card-text::after { */
-/* Reticências para indicar texto truncado */
-/* position: absolute;
-  bottom: 0;
-  right: 0;
-  background-color: white; */
-/* Cor de fundo do texto reticências */
-/* cursor: pointer; */
-/* Cursor de apontar quando hover */
-/* color: blue; */
-/* Cor do botão "Mostrar mais" */
-/* } */
-
-
 #sombrinha {
   box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.4);
 }
-
-
-
-/* cores
-  verdes: #395144 / rgb(57, 81, 68)  e #4E6C50 / rgb(78, 108, 80) 
-  marrom: #AA8B56 / rgb(170, 139, 86)
-  off white: #F0EBCE / rgb(240, 235, 206)
-  */
