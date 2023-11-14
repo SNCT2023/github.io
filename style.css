@@ -284,9 +284,6 @@ footer {
     grid-template-columns: repeat(1, 1fr);
     padding: 3rem 2rem;
   }
-  .footer-list{
-    margin-right: 30px;
-  }
 }
 
 
@@ -310,8 +307,4 @@ footer {
   /* Ajusta a altura máxima do conteúdo do card */
   overflow-y: auto;
   /* Permite rolagem vertical quando o conteúdo exceder a altura máxima */
-}
-
-#sombrinha {
-  box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.4);
 }
